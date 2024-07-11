@@ -140,7 +140,7 @@ div#category {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #3b70fc;
+  background-color: #4f64ac;
   border-radius: 2em;
 }
 
@@ -150,7 +150,7 @@ div#category {
 
 ::-moz-selection {
   color: #fff;
-  background-color: #3b70fc;
+  background-color: #4f64ac;
 }
 
 /* 音乐播放器 */
@@ -234,7 +234,7 @@ div#category {
   height: 100%;
   border-top-left-radius: 8px;
   border-bottom-left-radius: 8px;
-  background-color: #3b70fc;
+  background-color: #4f64ac;
   background-position: center;
   background-size: cover;
 }
